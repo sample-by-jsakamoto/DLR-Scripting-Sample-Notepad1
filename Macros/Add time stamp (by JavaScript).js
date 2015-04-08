@@ -1,0 +1,1 @@
+﻿textBox.Text = new Date().toString() + "\n" + textBox.Text;
